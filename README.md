@@ -2,7 +2,7 @@
 
 ### Preview 
 
-![Demo en acción](vide/demo.gif)
+![Demo en acción](video/demo.gif)
 
 ## Original Page
 https://www.apple.com/la/airpods-pro/
